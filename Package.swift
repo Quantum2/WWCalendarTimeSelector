@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "ARCoreLocation",
+    name: "WWCalendarTimeSelector",
     products: [
         .library(name: "WWCalendarTimeSelector",  targets: ["WWCalendarTimeSelector"])
     ],
